@@ -1,0 +1,11 @@
+{
+  "name": "single-page-router",
+  "version": "1.0.0",
+  "description": "A simple single page hash router.",
+  "main": "Router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Richlen",
+  "license": "ISC"
+}
